@@ -5,5 +5,5 @@ for(let i=0;i<=num;i++){
         count++
     }
 }if(count=2){
-    console.log("it is prime number")
-}else{  console.log("it is  not prime number")}
+    console.log("it a prime number")
+}else{  console.log("it a  not prime number")}
